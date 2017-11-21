@@ -10,12 +10,6 @@
 
   Course Name: CS 313E
 
-  Unique Number: 54090
-
-  Date Created: 4/27/10
-
-  Date Last Modified: 5/2/10
-
 */
 
 import java.util.*;
